@@ -1,9 +1,13 @@
 # 🐅 Hello!
 
 It's a pleasure to meet you! I'm **Miguemi**, and I'm a programmer!
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1200px-Raspberry_Pi_Logo.svg.png" 
-       alt="Raspberry Pi Logo" 
-       width="37px" height="37px">
+<p align="center" style="font-size: 37px;">
+  🐅 <!-- Tiger -->
+  🐘 <!-- PHP (Elephant is its mascot) -->
+  ❄️ <!-- NixOS (Snowflake as a representation) -->
 </p>
+
+
+
+
+
